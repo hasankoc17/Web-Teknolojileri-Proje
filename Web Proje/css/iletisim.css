@@ -1,0 +1,47 @@
+body{        
+    margin:0;
+    padding:0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ #navbar {
+	opacity: 0.8;
+	border-bottom: 1px solid gold;
+}
+
+ #nav a{
+     color: #fff;
+     text-decoration: none;
+     padding: 7px 25px;
+     display: inline-block;
+ }
+ #nav a:hover{
+    color:gold;
+  }
+  #center{
+      margin-top:20vh;
+  }
+  .row {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .card{
+    max-width: 25rem;
+    padding:10px 10px;
+    margin-top:10%;
+}
+
+.form-group{
+    width: 20%;
+}
+#floatingTextarea2{
+    height: 100px;
+}
+.footer {
+	bottom: 0;
+	width: 100%;
+	background: #333;
+	padding: 10px 0;
+	color: #fff;
+}

@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:white !important;
+}
+
+#navbar {
+    opacity: 0.9;
+    border-bottom: 1px solid maroon;
+}
+#nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}
+#nav a:hover {
+    color: maroon;
+}
+#center{
+    margin-top:15vh;
+    height: 100vh;
+}
+#tbEgitim{
+    width: 90%;
+}
+#tbProgramlama{
+    width: 50%;
+}
+
+a.okul {
+    color: black;
+}
+a.okul:link {
+    text-decoration: none;
+}
+a.okul:hover {
+    color: brown;
+}
+.info{
+    margin:2%;
+}
+.footer {
+	bottom: 0;
+	width: 100%;
+	background: #333;
+	padding: 10px 0;
+	color: #fff;
+}

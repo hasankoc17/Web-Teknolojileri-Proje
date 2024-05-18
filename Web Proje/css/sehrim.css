@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(../img/ckalekopru.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#navbar {
+  opacity: 0.8;
+  border-bottom: 1px solid royalblue;
+}
+#nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 25px;
+  display: inline-block;
+}
+#nav a:hover {
+  color: royalblue;
+}
+
+.carousel {
+  height: 100vh;
+  object-fit: cover;
+}
+
+.carousel-inner img {
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+}
+
+.carousel-inner {
+  border-bottom: 3px royalblue solid;
+}
+
+.card {
+  width: 35rem;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+h1 {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  background: #333;
+  padding: 10px 0;
+  color: #fff;
+  text-align: center;
+}
