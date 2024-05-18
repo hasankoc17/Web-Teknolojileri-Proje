@@ -5,7 +5,7 @@ body{
   }
 #navbar {
 	opacity: 0.8;
-	border-bottom: 1px solid tomato;
+	border-bottom: 1px solid lightseagreen;
 }
 #nav a {
 	color: #fff;
@@ -14,7 +14,7 @@ body{
 	display: inline-block;
 }
 #nav a:hover{
-	color:tomato;
+	color:lightseagreen;
 }
 
 

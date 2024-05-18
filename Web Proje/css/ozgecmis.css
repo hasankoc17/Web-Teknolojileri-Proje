@@ -6,7 +6,7 @@ body {
 
 #navbar {
     opacity: 0.9;
-    border-bottom: 1px solid maroon;
+    border-bottom: 1px solid lightseagreen;
 }
 #nav a {
     color: #fff;
@@ -15,7 +15,7 @@ body {
     display: inline-block;
 }
 #nav a:hover {
-    color: maroon;
+    color:lightseagreen;
 }
 #center{
     margin-top:15vh;

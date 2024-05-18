@@ -10,7 +10,7 @@ body{
  }
   #navbar {
 	opacity: 0.8;
-	border-bottom: 1px solid #7A0579;
+	border-bottom: 1px solid lightseagreen;
 }
  #nav a{
      color: #fff;
@@ -19,7 +19,7 @@ body{
      display: inline-block;
  }
   #nav a:hover{
-    color:#7A0579;
+    color:lightseagreen;
   }
   .card{
     max-width: 40rem;

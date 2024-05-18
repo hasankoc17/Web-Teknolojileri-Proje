@@ -27,14 +27,13 @@ body{
   margin-top:20vh;
 }
 
-a.kitap:link {
-  text-decoration: none;
+.profilp {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 10px;
 }
 
 
-a.kitap:hover {
-  color: brown;
-}
 
  .footer {
 	bottom: 0;
