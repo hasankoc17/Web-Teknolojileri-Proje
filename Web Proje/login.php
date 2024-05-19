@@ -33,7 +33,7 @@
             <a class="nav-link active" href="iletisim.html">İletişim</a>
           </li>
         </ul>
-        <li class="nav-item" style="list-style: none;">
+        <li class="nav-item" style="list-style: none;"> 
           <a class="nav-link active" href="login.html">Giriş</a>
         </li>
       </div>
